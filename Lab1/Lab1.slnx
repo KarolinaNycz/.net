@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="MyApp/MyApp.csproj" />
-  <Project Path="MyLibrary/MyLibrary.csproj" Id="965caf63-e999-4f0e-a6da-8a608b455c65" />
-  <Project Path="MyServices/MyServices.csproj" Id="e9fdd23e-12f8-4149-93c8-d2c831c13523" />
-</Solution>
